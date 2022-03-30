@@ -19,3 +19,9 @@ Started Part2 Hopefully lets see If I can complete this in 12hrs or not! Scaared
 1209
 Been struggling with updating database. And I'm stucked at this point. Won't be able to do next steps without completing this.
 It shows Build Failed when I'm trying to Update database in Package Manage Console.
+
+0213 - 30th March 2022
+Got 7 errors
+The name 'SqlServerValueGenerationStrategy' does not exist in the current contex in Project-CharmsBooks.DataAccess in File-20220330045639_AddDefaultIdentityMigration in Line 22
+The name 'SqlServerValueGenerationStrategy' does not exist in the current contex in Project-CharmsBooks.DataAccess in File-20220330045639_AddDefaultIdentityMigration in Line 56
+The name 'SqlServerValueGenerationStrategy' does not exist in the current contex in Project-CharmsBooks.DataAccess in File-20220330045639_AddDefaultIdentityMigration in Line 145
