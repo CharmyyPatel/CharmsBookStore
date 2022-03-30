@@ -9,3 +9,6 @@ Now, heading towards adding projects
 
 2318
 Added all 3 projects and ran the application. Thankfully this time I got 0 errors in one go...!!
+
+1231
+Finally done with the Part1 of Assignment2 
