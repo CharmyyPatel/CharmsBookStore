@@ -53,8 +53,4 @@ namespace CharmsBooks.DataAccess.Repository
             throw new NotImplementedException();
         }
     }
-
-    public interface IRepository<T> where T : class
-    {
-    }
 }

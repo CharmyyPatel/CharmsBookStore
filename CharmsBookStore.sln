@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharmsBookStore", "CharmsBookStore\CharmsBookStore.csproj", "{7A605DFD-FD27-4862-AE9F-CBD8CFC82C9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharmsBookStore", "CharmsBookStore\CharmsBookStore.csproj", "{7A605DFD-FD27-4862-AE9F-CBD8CFC82C9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharmsBooks.DataAccess", "CharmsBooks.DataAccess\CharmsBooks.DataAccess.csproj", "{515817F3-6191-41C1-B838-11DABFCFB068}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharmsBooks.DataAccess", "CharmsBooks.DataAccess\CharmsBooks.DataAccess.csproj", "{515817F3-6191-41C1-B838-11DABFCFB068}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharmsBooks.Models", "CharmsBooks.Models\CharmsBooks.Models.csproj", "{4C232BD9-1B67-443C-A24C-6EA8DC8E0713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharmsBooks.Models", "CharmsBooks.Models\CharmsBooks.Models.csproj", "{4C232BD9-1B67-443C-A24C-6EA8DC8E0713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharmsBooks.Utility", "CharmsBooks.Utility\CharmsBooks.Utility.csproj", "{B9A8B6D6-E362-47B6-91ED-4A1BA5BC7A4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharmsBooks.Utility", "CharmsBooks.Utility\CharmsBooks.Utility.csproj", "{B9A8B6D6-E362-47B6-91ED-4A1BA5BC7A4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

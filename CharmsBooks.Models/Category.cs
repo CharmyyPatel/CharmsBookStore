@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CharmsBooks.Models
 {
-    class Category
+    public class Category
     {
         [Key]
 

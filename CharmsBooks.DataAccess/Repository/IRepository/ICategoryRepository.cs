@@ -6,8 +6,8 @@ using System.Text;
 
 namespace CharmsBooks.DataAccess.Repository.IRepository
 {
-    interface ICategoryRepository
+    interface ICategoryRepository:IRepository<Models.Category>
     {
-        void Update(Category category);
+        void Update(Models.Category category);
     }
 }
