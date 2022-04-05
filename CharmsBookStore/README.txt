@@ -22,4 +22,8 @@ Created Migrations..
 Entry of the Migration file "20220402035636_AddDefaultIdentifyMigration.cs"		
 
 Date: 4th April
+2256 
 Finally solved all the errors in CharmsBooks.DataAccess file
+
+2325
+Added new Class file to CharmsBooks.Models named as Category.cs 
