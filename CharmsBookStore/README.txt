@@ -27,3 +27,7 @@ Finally solved all the errors in CharmsBooks.DataAccess file
 
 2325
 Added new Class file to CharmsBooks.Models named as Category.cs 
+
+0224
+Created Repository folder, IRepository and interfaces and classes for the application.
+Got few errors but they got resolved quickly. 

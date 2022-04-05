@@ -1,11 +1,11 @@
-﻿using CharmsBookStore.Models;
+﻿using CharmsBooks.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CharmsBookStore.DataAccess.Data
+namespace CharmsBooks.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
