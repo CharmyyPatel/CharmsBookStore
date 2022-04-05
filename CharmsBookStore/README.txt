@@ -12,3 +12,14 @@ Added all 3 projects and ran the application. Thankfully this time I got 0 error
 
 1231
 Finally done with the Part1 of Assignment2 
+
+====================================================================================================
+************************************** Assignment 2 - Part 2 ***************************************
+====================================================================================================
+Date: 1st April
+2358
+Created Migrations.. 
+Entry of the Migration file "20220402035636_AddDefaultIdentifyMigration.cs"		
+
+Date: 4th April
+Finally solved all the errors in CharmsBooks.DataAccess file
