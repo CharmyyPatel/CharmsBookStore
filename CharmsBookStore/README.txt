@@ -31,3 +31,4 @@ Added new Class file to CharmsBooks.Models named as Category.cs
 0224
 Created Repository folder, IRepository and interfaces and classes for the application.
 Got few errors but they got resolved quickly. 
+Was so into following the steps and solving errors that forgot to commits everything on github.
