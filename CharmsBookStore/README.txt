@@ -58,3 +58,6 @@ But uptill last step I did was of adding Category to DropDown Navbar.
 0425
 Added Upsert text to the razor view.
 content was provided in the assignment 2 files 
+
+0514
+finally done with part2
