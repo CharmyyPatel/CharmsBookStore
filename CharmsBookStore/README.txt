@@ -54,3 +54,7 @@ Got this error in startup.cs file at line 38 "services.AddScoped<IUnitOfWork, Un
 0405
 Slept for 2hrs and then again started working on it. Forgot to mention in Readme on starting time
 But uptill last step I did was of adding Category to DropDown Navbar.
+
+0425
+Added Upsert text to the razor view.
+content was provided in the assignment 2 files 
