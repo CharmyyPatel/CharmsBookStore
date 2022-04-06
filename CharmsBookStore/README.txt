@@ -50,3 +50,7 @@ Error	CS0019	Operator '==' cannot be applied to operands of type 'object' and 'i
 
 2252
 Got this error in startup.cs file at line 38 "services.AddScoped<IUnitOfWork, UnitOfWork>();"
+
+0405
+Slept for 2hrs and then again started working on it. Forgot to mention in Readme on starting time
+But uptill last step I did was of adding Category to DropDown Navbar.

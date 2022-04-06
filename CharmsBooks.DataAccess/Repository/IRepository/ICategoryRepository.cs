@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CharmsBooks.DataAccess.Repository.IRepository
 {
-   public interface ICategoryRepository:IRepository<Category>
+   public interface ICategoryRepository:Repository<Category>
     {
         void Update(Models.Category category);
     }

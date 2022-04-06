@@ -6,7 +6,7 @@ using System.Text;
 
 namespace CharmsBooks.DataAccess.Repository
 {
-    interface IRepository<T> where T : class
+    interface Repository<T> where T : class
     {
         T Get(int id); // Retrieve a category from db by id
         // list of categories based on requirements

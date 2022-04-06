@@ -1,6 +1,7 @@
 ﻿namespace CharmsBooks
 {
-    internal interface IUnitOfWork
+    public interface IUnitOfWork
     {
+        object Category { get; }
     }
 }
