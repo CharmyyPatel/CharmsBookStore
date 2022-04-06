@@ -47,3 +47,6 @@ Error	CS0053	Inconsistent accessibility: property type 'ICategoryRepository' is 
 2nd error:
 Severity	Code	Description	Project	File	Line	Suppression State
 Error	CS0019	Operator '==' cannot be applied to operands of type 'object' and 'int'	CharmsBooks.DataAccess	C:\Users\Admin\source\repos\CharmsBookStore\CharmsBooks.DataAccess\Repository\CategoryRepository.cs	24	Active
+
+2252
+Got this error in startup.cs file at line 38 "services.AddScoped<IUnitOfWork, UnitOfWork>();"
