@@ -69,3 +69,10 @@ finally done with part2
 
 1219
 Added CoverType.cs to Models 
+
+Its 17th April 
+1848
+Started all from part2 deleted all the files till part3 as the errors were not solved.
+And I was unable to run the Application. 
+I got an error related to some CSC which cause application to break
+created repos and all potenstial models 

@@ -12,6 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+  
+  <ItemGroup>
     <ProjectReference Include="..\CharmsBooks.Models\CharmsBooks.Models.csproj" />
     <ProjectReference Include="..\CharmsBooks.Utility\CharmsBooks.Utility.csproj" />
   </ItemGroup>

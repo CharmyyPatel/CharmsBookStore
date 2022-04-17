@@ -1,16 +1,14 @@
 ﻿using CharmsBooks.DataAccess.Data;
-using CharmsBooks.DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
 
 namespace CharmsBooks.DataAccess.Repository
 {
     // Implements all the methods of the IRepository
-    public class Repository<T> : Repository<T> where T : class
+    public class Repository<T> : IRepository<T> where T : class
     {
         // modify the database w/ the db context
         private readonly ApplicationDbContext _db;      // get the db instance using the constructor and DI 
