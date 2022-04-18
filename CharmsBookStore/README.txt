@@ -79,3 +79,8 @@ created repos and all potenstial models
 
 2248
 Back after dinner and updated _layout.cshtml & Index.cshtml
+
+1236
+added upsert.cshtml
+Im not feeling well so I'll take a pill and will go to sleep. 
+See you tomorrow!!
