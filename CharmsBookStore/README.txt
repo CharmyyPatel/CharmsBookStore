@@ -88,3 +88,8 @@ See you tomorrow!!
 Its 18th April
 1140
 Added _CreateAndBackToListButton & _EditAndBackToListButton to Category folder.  
+
+Successfully created migration and added CoverType to Database. 
+
+1354
+"20220418175205_AddCoverTypeToDb" is the entry of Migration 
