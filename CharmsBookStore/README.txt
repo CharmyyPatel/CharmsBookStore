@@ -84,3 +84,7 @@ Back after dinner and updated _layout.cshtml & Index.cshtml
 added upsert.cshtml
 Im not feeling well so I'll take a pill and will go to sleep. 
 See you tomorrow!!
+
+Its 18th April
+1140
+Added _CreateAndBackToListButton & _EditAndBackToListButton to Category folder.  
