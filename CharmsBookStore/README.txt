@@ -76,3 +76,6 @@ Started all from part2 deleted all the files till part3 as the errors were not s
 And I was unable to run the Application. 
 I got an error related to some CSC which cause application to break
 created repos and all potenstial models 
+
+2248
+Back after dinner and updated _layout.cshtml & Index.cshtml
