@@ -16,5 +16,6 @@ namespace CharmsBooks.DataAccess.Repository.IRepository
         T OneRecord<T>(string procedurename, DynamicParameters param = null);
         IEnumerable<T> List<T>(string procedurename, DynamicParameters param = null);
         Tuple<IEnumerable<T2>> List<T1, T2>(string procedurename, DynamicParameters param = null);
+        void Execute(object proc_CoverType_Update, DynamicParameters parameter);
     }
 }

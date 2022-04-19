@@ -102,3 +102,6 @@ Its 19th April
 Got 6 errors all were in "CoverTypeController.cs" file.
 
 Error:'SD' does not contain a definition for 'Proc_CoverType_Update'.
+
+0255
+Solved all the errors by modifying SD.cs file.

@@ -83,5 +83,10 @@ namespace CharmsBooks.DataAccess.Repository
         {
             throw new NotImplementedException();
         }
+
+        public void Execute(object proc_CoverType_Update, DynamicParameters parameter)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
