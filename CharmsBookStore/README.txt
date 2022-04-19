@@ -105,3 +105,10 @@ Error:'SD' does not contain a definition for 'Proc_CoverType_Update'.
 
 0255
 Solved all the errors by modifying SD.cs file.
+
+0320
+Successfully created migration and added Product to Database.
+
+"Successfully created migration and added CoverType to Database."  is the entry of Migration.
+
+And Updated Successfully.
