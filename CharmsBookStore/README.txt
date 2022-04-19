@@ -109,6 +109,6 @@ Solved all the errors by modifying SD.cs file.
 0320
 Successfully created migration and added Product to Database.
 
-"Successfully created migration and added CoverType to Database."  is the entry of Migration.
+"20220419191952_AddProductToDb"  is the entry of Migration.
 
 And Updated Successfully.
