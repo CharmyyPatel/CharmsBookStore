@@ -112,3 +112,10 @@ Successfully created migration and added Product to Database.
 "20220419191952_AddProductToDb"  is the entry of Migration.
 
 And Updated Successfully.
+
+0332
+Successfully created migration and added validation to product to database.
+
+"20220419193213_AddValidationToProduct"  is the entry of Migration.
+
+And Updated Successfully.
