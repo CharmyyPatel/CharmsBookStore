@@ -119,3 +119,7 @@ Successfully created migration and added validation to product to database.
 "20220419193213_AddValidationToProduct"  is the entry of Migration.
 
 And Updated Successfully.
+
+0427
+Modified ProductController.cs and ProductVM. 
+Ran the application successfully.
