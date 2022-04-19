@@ -93,3 +93,12 @@ Successfully created migration and added CoverType to Database.
 
 1354
 "20220418175205_AddCoverTypeToDb" is the entry of Migration 
+
+1355
+Database updated successfully.
+
+Its 19th April
+0247
+Got 6 errors all were in "CoverTypeController.cs" file.
+
+Error:'SD' does not contain a definition for 'Proc_CoverType_Update'.
