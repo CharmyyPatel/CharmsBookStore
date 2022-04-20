@@ -129,3 +129,9 @@ Checked for errors and ran the application.
 
 0921
 Edited SD.cs file.
+
+Its 20th April
+1039
+Forgot to add Category.js in the Index.cshtml file.
+
+Added Product Images to the wwwroot>images>products folder.
